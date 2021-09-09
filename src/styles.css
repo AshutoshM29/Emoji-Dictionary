@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+.App {
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+}
+
+.navigation {
+  background-color: #1d4ed8;
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.foot {
+  margin-top: 2rem;
+  background-color: #1d4ed8;
+  padding: 1rem;
+  color: white;
+}
