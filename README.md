@@ -9,5 +9,4 @@ A React JS application which takes emojis as an input from the user and then sho
 
 
 1. React JS
-
-2.CodeSandbox
+2. CodeSandbox
